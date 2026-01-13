@@ -1,4 +1,6 @@
-# 💫 About Me:
+<img width="1584" height="396" alt="Black Modern Personal LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/d4737af6-1deb-4d43-9e21-4692cb675c75" />
+
+# 💫 Hey, I am Sameer Saleem:
 💻 I'm currently working on<br>🚀 Building full-stack web apps with Next.js, React, and Node.js, focusing on clean UI and scalable APIs.<br><br>🤝 I'm looking to collaborate on<br>🌱 Open-source projects, SaaS ideas, and modern web apps that solve real-world problems.<br><br>🆘 I'm looking for help with<br>🧠 Improving system design, performance optimization, and writing cleaner backend architecture.<br><br>📚 I'm currently learning<br>📦 Advanced Backend development with express.js and its best practices, and cloud deployment workflows.<br><br>💬 Ask me about<br>⚡ React, Next.js, JavaScript, APIs, Prisma, PostgreSQL, or anything web development related.<br><br>🎉 Fun fact<br>😄 I enjoy turning complex problems into simple, user-friendly solutions.
 
 
