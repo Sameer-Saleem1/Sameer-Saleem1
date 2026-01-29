@@ -1,7 +1,7 @@
 <img width="1584" height="396" alt="Black Modern Personal LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/d4737af6-1deb-4d43-9e21-4692cb675c75" />
 
 # 💫 Hey, I am Sameer Saleem:
-💻 I'm currently working on<br>🚀 Building full-stack web apps with Next.js, React, and Node.js, focusing on clean UI and scalable APIs.<br><br>🤝 I'm looking to collaborate on<br>🌱 Open-source projects, SaaS ideas, and modern web apps that solve real-world problems.<br><br>🆘 I'm looking for help with<br>🧠 Improving system design, performance optimization, and writing cleaner backend architecture.<br><br>📚 I'm currently learning<br>📦 Advanced Backend development with express.js and its best practices, and cloud deployment workflows.<br><br>💬 Ask me about<br>⚡ React, Next.js, JavaScript, APIs, Prisma, PostgreSQL, or anything web development related.<br><br>🎉 Fun fact<br>😄 I enjoy turning complex problems into simple, user-friendly solutions.
+💻 I'm currently working on 🚀 building full-stack web apps with Next.js, React, and Node.js, focusing on clean UI and scalable APIs.<br><br>🤝 I'm looking to collaborate on 🌱 Open-source projects, SaaS ideas, and modern web apps that solve real-world problems.<br><br>🆘 I'm looking for help with 🧠 Improving system design, performance optimization, and writing cleaner backend architecture.<br><br>📚 I'm currently learning 📦 Advanced Backend development with express.js and its best practices, and cloud deployment workflows.<br><br>💬 Ask me about ⚡ React, Next.js, JavaScript, APIs, Prisma, PostgreSQL, or anything web development related.<br><br>🎉 Fun fact 😄 I enjoy turning complex problems into simple, user-friendly solutions.
 
 
 ## 🌐 Socials:
@@ -13,9 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Sameer-Saleem1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sameer-Saleem1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer-Saleem1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sameer-Saleem1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
