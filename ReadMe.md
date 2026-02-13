@@ -2,7 +2,7 @@
 
 # 💫 Hey, I am Sameer Saleem:
 
-💻 I'm currently working on 🚀 building full-stack web apps with Next.js, React, and Node.js, focusing on clean UI and scalable APIs.<br><br>🤝 I'm looking to collaborate on 🌱 Open-source projects, SaaS ideas, and modern web apps that solve real-world problems.<br><br>🆘 I'm looking for help with 🧠 Improving system design, performance optimization, and writing cleaner backend architecture.<br><br>📚 I'm currently learning 📦 Advanced Backend development with express.js and its best practices, and cloud deployment workflows.<br><br>💬 Ask me about ⚡ React.js, Next.js, JavaScript, APIs, Prisma, PostgreSQL, or anything web development related.<br><br>🎉 Fun fact 😄 I enjoy turning complex problems into simple, user-friendly solutions.
+💻 I'm currently working on 🚀 building full-stack web apps with Next.js, React, and Node.js, focusing on clean UI and scalable APIs.<br><br>🤝 I'm looking to collaborate on 🌱 Open-source projects, SaaS ideas, and modern web apps that solve real-world problems.<br><br>🆘 I'm looking for help with 🧠 Improving system design, performance optimization, and writing cleaner backend architecture.<br><br>📚 I'm currently learning 📦 Advanced Backend development with express.js and its best practices, and cloud deployment workflows.<br><br>💬 Ask me about ⚡ React.js, Next.js, JavaScript, APIs, Prisma, PostgreSQL, or anything web development related.<br><br>🎉 Fun fact 😄: I enjoy turning complex problems into simple, user-friendly solutions.
 
 ## 🌐 Socials:
 
