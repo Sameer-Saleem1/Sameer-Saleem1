@@ -1,9 +1,9 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Sameer Saleem</h1>
 <h3 align="center">Full Stack Web Developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sameer-Saleem1/Sameer-Saleem1/main/banner.png" alt="banner" width="100%" />
+  <img width="1584" height="396" alt="Black Modern Personal LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/d4737af6-1deb-4d43-9e21-4692cb675c75" />
 </p>
 
 ---
@@ -72,10 +72,6 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sameer-Saleem1&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Sameer-Saleem1&theme=tokyonight" alt="streak" />
 </p>
 
@@ -103,9 +99,4 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sameer-Saleem1/Sameer-Saleem1/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-```
