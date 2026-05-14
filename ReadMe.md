@@ -75,9 +75,7 @@
   <img src="https://streak-stats.demolab.com?user=Sameer-Saleem1&theme=tokyonight" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer-Saleem1&layout=compact&theme=tokyonight" alt="langs" />
-</p>
+
 
 ---
 
@@ -91,12 +89,5 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Sameer-Saleem1&icon=0&color=6" />
-</p>
-
----
 
 
