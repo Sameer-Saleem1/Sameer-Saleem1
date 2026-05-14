@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Black Modern Personal LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/d4737af6-1deb-4d43-9e21-4692cb675c75" />
+![Banner](https://raw.githubusercontent.com/Sameer-Saleem1/Sameer-Saleem1/main/banner.png)
 
 # 💫 Hey, I am Sameer Saleem:
 
@@ -6,7 +6,7 @@
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sameersaleem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sameer-saleem-4898b0221) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameersaleemq75@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sameersaleem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sameer-saleem-4898b0221) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameersaleemq75@gmail.com)
 
 # 💻 Tech Stack:
 
