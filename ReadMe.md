@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sameer Saleem</h1>
-<h3 align="center">Full Stack Web Developer from Pakistan 🇵🇰</h3>
+<h3 align="center">Full Stack SaaS Product Developer</h3>
 
 <p align="center">
   <img width="1584" height="396" alt="Black Modern Personal LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/d4737af6-1deb-4d43-9e21-4692cb675c75" />
